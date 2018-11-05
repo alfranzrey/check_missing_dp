@@ -1,0 +1,400 @@
+ASIN	Title
+B00KNCIXDQ	ASICS Women's Train for Sport Racerback Hoodie, Heather Grey, Large	
+B00KNCIY6W	ASICS Women's Train for Sport Racerback Hoodie, Heather Grey, Medium	
+B00KNCIZ7U	ASICS Women's Train for Sport Racerback Hoodie, Heather Grey, Small	
+B00KNCJ0U6	ASICS Women's Train for Sport Racerback Hoodie, Heather Grey, X-Small	
+B00KNCIU3Y	ASICS Women's Train for Sport Racerback Hoodie, Performance Black, Medium	
+B00KNCIUWK	ASICS Women's Train for Sport Racerback Hoodie, Performance Black, Small	
+B00KNCIWLO	ASICS Women's Train for Sport Racerback Hoodie, Performance Black, X-Small	
+B00NVQT7J0	ASICS Women's Performance Run Sleeveless Top, Ultra Pink Heather, Medium	
+B00NVQT7TK	ASICS Women's Performance Run Sleeveless Top, Ultra Pink Heather, Small	
+B00NVQT7QI	ASICS Women's Performance Run Sleeveless Top, Ultra Pink Heather, X-Small	
+B00NVQTDDU	ASICS Women's Performance Run Sleeveless Top, Heather Grey, Large	
+B00NVQTDE4	ASICS Women's Performance Run Sleeveless Top, Heather Grey, Medium	
+B00NVQTDFI	ASICS Women's Performance Run Sleeveless Top, Heather Grey, Small	
+B00NVQTDGW	ASICS Women's Performance Run Sleeveless Top, Heather Grey, X-Large	
+B00NVQTDDK	ASICS Women's Performance Run Sleeveless Top, Heather Grey, X-Small	
+B00NVQTFTW	ASICS Women's Performance Run Sleeveless Top, Jeans Heather, Medium	
+B00NVQTFRO	ASICS Women's Performance Run Sleeveless Top, Jeans Heather, Small	
+B00NVQTFR4	ASICS Women's Performance Run Sleeveless Top, Jeans Heather, X-Small	
+B00KN87QZ6	ASICS Women's Performance Run 2-N-1 3-Inch Woven Shorts, Ultra Pink, Large	
+B00KN87T8U	ASICS Women's Performance Run 2-N-1 3-Inch Woven Shorts, Ultra Pink, Medium	
+B00KN87VS8	ASICS Women's Performance Run 2-N-1 3-Inch Woven Shorts, Ultra Pink, Small	
+B00KN87XBI	ASICS Women's Performance Run 2-N-1 3-Inch Woven Shorts, Ultra Pink, X-Large	
+B00KN87Z5M	ASICS Women's Performance Run 2-N-1 3-Inch Woven Shorts, Ultra Pink, X-Small	
+B00Q1Y1R24	ASICS Women's 2-N-1 Woven Shorts (3-Inch), Large, Performance Black/Pink Glow	
+B00Q1Y1TNQ	ASICS Women's 2-N-1 Woven Shorts (3-Inch), Medium, Performance Black/Pink Glow	
+B00Q1Y1VTI	ASICS Women's 2-N-1 Woven Shorts (3-Inch), Small, Performance Black/Pink Glow	
+B00Q1Y1Y3G	ASICS Women's 2-N-1 Woven Shorts (3-Inch), X-Large, Performance Black/Pink Glow	
+B00Q1Y20G6	ASICS Women's 2-N-1 Woven Shorts (3-Inch), X-Small, Performance Black/Pink Glow	
+B00KN87EGM	ASICS Women's Performance Run 2-N-1 3-Inch Woven Shorts, Jeans, Large	
+B00KN87GOM	ASICS Women's Performance Run 2-N-1 3-Inch Woven Shorts, Jeans, Medium	
+B00KN87JK8	ASICS Women's Performance Run 2-N-1 3-Inch Woven Shorts, Jeans, Small	
+B00KN87LYM	ASICS Women's Performance Run 2-N-1 3-Inch Woven Shorts, Jeans, X-Large	
+B00KN87OJO	ASICS Women's Performance Run 2-N-1 3-Inch Woven Shorts, Jeans, X-Small	
+B00KN8811E	ASICS Women's Performance Run 2-N-1 3-Inch Woven Shorts, Performance Black, Large	
+B00KN8834Y	ASICS Women's 2-N-1 Woven Short 3", Performance Black, Medium	
+B00KN885BU	ASICS Women's 2-N-1 Woven Short 3", Performance Black, Small	
+B00KN886H8	ASICS Women's Performance Run 2-N-1 3-Inch Woven Shorts, Performance Black, X-Large	
+B00KN888MQ	ASICS Women's Performance Run 2-N-1 3-Inch Woven Shorts, Performance Black, X-Small	
+B00U2J6ISW	ASICS Women's 2-N-1 Woven Shorts (3-Inch), Large, Aqua Mint	
+B00U2J6IJ6	ASICS Women's 2-N-1 Woven Shorts (3-Inch), Medium, Aqua Mint	
+B00U2J6MK6	ASICS Women's 2-N-1 Woven Shorts (3-Inch), Small, Aqua Mint	
+B00U2J6MJM	ASICS Women's 2-N-1 Woven Shorts (3-Inch), X-Large, Aqua Mint	
+B00U2J6MUG	ASICS Women's 2-N-1 Woven Shorts (3-Inch), X-Small, Aqua Mint	
+B00U2J6MXS	ASICS Women's 2-N-1 Woven Shorts (3-Inch), Large, Deep Ruby	
+B00U2J6QGG	ASICS Women's 2-N-1 Woven Shorts (3-Inch), Medium, Deep Ruby	
+B00U2J6QFW	ASICS Women's 2-N-1 Woven Shorts (3-Inch), Small, Deep Ruby	
+B00U2J6QG6	ASICS Women's 2-N-1 Woven Shorts (3-Inch), X-Large, Deep Ruby	
+B00U2J6U76	ASICS Women's 2-N-1 Woven Shorts (3-Inch), X-Small, Deep Ruby	
+B00YPSGXS6	Women's ASICS Woven Short 5.5, Mosaic Blue Palm, L	
+B00YPSGZJI	Women's ASICS Woven Short 5.5, Mosaic Blue Palm, M	
+B00YPSH1KU	Women's ASICS Woven Short 5.5, Mosaic Blue Palm, S	
+B00YPSH47K	Women's ASICS Woven Short 5.5, Mosaic Blue Palm, XL	
+B00YPSH6DW	Women's ASICS Woven Short 5.5, Mosaic Blue Palm, XS	
+B00YPSH8DU	Women's ASICS Woven Short 5.5, Pink Glow Palm, L	
+B00YPSHAG0	Women's ASICS Woven Short 5.5, Pink Glow Palm, M	
+B00YPSHC9K	Women's ASICS Woven Short 5.5, Pink Glow Palm, S	
+B00YPSHDT4	Women's ASICS Woven Short 5.5, Pink Glow Palm, XL	
+B00YPSHG82	Women's ASICS Woven Short 5.5, Pink Glow Palm, XS	
+B00Q1VN59A	Women's ASICS Woven Short 5.5, Aqua Mint Palm, LG (US 10-12) X 5.5	
+B00Q1VN662	Women's ASICS Woven Short 5.5, Aqua Mint Palm, MD (US 8-10) X 5.5	
+B00Q1VN7MK	Women's ASICS Woven Short 5.5, Aqua Mint Palm, SM (US 6-8) X 5.5	
+B00Q1VN8N8	Women's ASICS Woven Short 5.5, Aqua Mint Palm, XL (US 12-14) X 5.5	
+B00Q1VN9RS	Missing Detail page	
+B00Q1VMRZ8	Missing Detail page	
+B00Q1VMTIS	Missing Detail page	
+B00Q1VMUQ4	Missing Detail page	
+B00Q1VMVPE	Missing Detail page	
+B00Q1VMWZI	Missing Detail page	
+B00Q1VMYEC	Women's ASICS Woven Short 5.5, Cobalt Blue Palm, LG (US 10-12) X 5.5	
+B00Q1VN08Q	Women's ASICS Woven Short 5.5, Cobalt Blue Palm, MD (US 8-10) X 5.5	
+B00Q1VN1CG	Women's ASICS Woven Short 5.5, Cobalt Blue Palm, SM (US 6-8) X 5.5	
+B00Q1VN2FW	Women's ASICS Woven Short 5.5, Cobalt Blue Palm, XL (US 12-14) X 5.5	
+B00Q1VN3UG	Women's ASICS Woven Short 5.5, Cobalt Blue Palm, XS (US 4-6) X 5.5	
+B00M94YUA6	Missing Detail page	
+B00M94YWW2	Missing Detail page	
+B00M94Z1UY	Missing Detail page	
+B00M94Z76M	Missing Detail page	
+B00NVR0FM2	ASICS Women's Speed 2.5-Inch Woven Shorts, Performance Black, Large	
+B00NVR0BUS	ASICS Women's Speed 2.5-Inch Woven Shorts, Performance Black, Medium	
+B00NVR0BWQ	ASICS Women's Speed 2.5-Inch Woven Shorts, Performance Black, Small	
+B00NVR0FEK	ASICS Women's Speed 2.5-Inch Woven Shorts, Performance Black, X-Large	
+B00NVR0C5W	ASICS Women's Speed 2.5-Inch Woven Shorts, Performance Black, X-Small	
+B00NVR0LEY	ASICS Men's Speed 5-Inch Shorts, Performance Black, XX-Large	
+B00NVR0FFE	ASICS Men's Speed 5-Inch Shorts, Performance Black, Large	
+B00NVR0FKE	ASICS Men's Speed 5-Inch Shorts, Performance Black, Small	
+B00NVR0LJ4	ASICS Men's Speed 5-Inch Shorts, Performance Black, X-Large	
+B013HBFV52	Asics 2015/16 Men's 2-N-1 Woven 6 inch Running Short - 123123 (Dark Grey Pixel - 2XL)	
+B013HBFJW2	Asics 2015/16 Men's 2-N-1 Woven 6 inch Running Short - 123123 (Dark Grey Pixel - L)	
+B013HBFQ7K	Asics 2015/16 Men's 2-N-1 Woven 6 inch Running Short - 123123 (Dark Grey Pixel - M)	
+B013HBFSY6	Asics 2015/16 Men's 2-N-1 Woven 6 inch Running Short - 123123 (Dark Grey Pixel - S)	
+B013HBFU26	Asics 2015/16 Men's 2-N-1 Woven 6 inch Running Short - 123123 (Dark Grey Pixel - XL)	
+B013HBFFXU	Asics 2015/16 Men's 2-N-1 Woven 6 inch Running Short - 123123 (Performance Black Pixel - 2XL)	
+B0135GYIPS	Asics 2015/16 Men's 2-N-1 Woven 6 inch Running Short - 123123 (Performance Black Pixel - L)	
+B013HBFS64	Asics 2015/16 Men's 2-N-1 Woven 6 inch Running Short - 123123 (Performance Black Pixel - M)	
+B013HBFR6K	Asics 2015/16 Men's 2-N-1 Woven 6 inch Running Short - 123123 (Performance Black Pixel - S)	
+B013HBFJ1S	Asics 2015/16 Men's 2-N-1 Woven 6 inch Running Short - 123123 (Performance Black Pixel - XL)	
+B00KRIY2H2	ASICS Men's Performance Run 2-N-1 6-Inch Woven Shorts, Safety Yellow, XX-Large	
+B00KRIY44I	ASICS Men's Performance Run 2-N-1 6-Inch Woven Shorts, Safety Yellow, Large	
+B00KRIY6C8	ASICS Men's Performance Run 2-N-1 6-Inch Woven Shorts, Safety Yellow, Medium	
+B00KRIY8CG	ASICS Men's Performance Run 2-N-1 6-Inch Woven Shorts, Safety Yellow, Small	
+B00KRIY9SO	ASICS Men's Performance Run 2-N-1 6-Inch Woven Shorts, Safety Yellow, X-Large	
+B00NVR0XX8	ASICS Men's Performance Run 2-N-1 6-Inch Woven Shorts, Green Gecko, Large	
+B00NVR0XVA	ASICS Men's Performance Run 2-N-1 6-Inch Woven Shorts, Green Gecko, Small	
+B00NVR1116	ASICS Men's Performance Run 2-N-1 6-Inch Woven Shorts, Green Gecko, X-Large	
+B00QJNXTJG	ASICS Men's 2-N-1 Woven Shorts (6-Inch), XX-Large, Dark Grey	
+B00QJNXXUQ	ASICS Men's 2-N-1 Woven Shorts (6-Inch), Large, Dark Grey	
+B00QJNY0TO	ASICS Men's 2-N-1 Woven Shorts (6-Inch), Medium, Dark Grey	
+B00QJNY5BC	ASICS Men's 2-N-1 Woven Shorts (6-Inch), Small, Dark Grey	
+B00QJNY8NM	ASICS Men's 2-N-1 Woven Shorts (6-Inch), X-Large, Dark Grey	
+B00NVR15E4	ASICS Men's Performance Run 2-N-1 6-Inch Woven Shorts, Performance Black, XX-Large	
+B00NVR11DO	ASICS Men's Performance Run 2-N-1 6-Inch Woven Shorts, Performance Black, Large	
+B00NVR15IA	ASICS Men's Performance Run 2-N-1 6-Inch Woven Shorts, Performance Black, X-Large	
+B00KRIYBHI	ASICS Men's 2-N-1 Woven Shorts (6-Inch), XX-Large, Balance Black	
+B00KRIYCWC	ASICS Men's 2-N-1 Woven Shorts (6-Inch), Large, Balance Black	
+B00KRIYEBG	ASICS Men's 2-N-1 Woven Shorts (6-Inch), Medium, Balance Black	
+B00KRIYFRY	ASICS Men's 2-N-1 Woven Shorts (6-Inch), Small, Balance Black	
+B00KRIYH6I	ASICS Men's 2-N-1 Woven Shorts (6-Inch), X-Large, Balance Black	
+B00SUDJI66	ASICS Men's 2-N-1 Woven Shorts (6-Inch), XX-Large, Indigo Blue	
+B00SUDJL2C	ASICS Men's 2-N-1 Woven Shorts (6-Inch), Large, Indigo Blue	
+B00SUDJO0G	ASICS Men's 2-N-1 Woven Shorts (6-Inch), Medium, Indigo Blue	
+B00SUDJQSQ	ASICS Men's 2-N-1 Woven Shorts (6-Inch), Small, Indigo Blue	
+B00SUDJTLK	ASICS Men's 2-N-1 Woven Shorts (6-Inch), X-Large, Indigo Blue	
+B00NVR18IM	ASICS Men's Top Impact Singlet, Safety Yellow, XX-Large	
+B00NVR1508	ASICS Men's Top Impact Singlet, Safety Yellow, Large	
+B00NVR153A	ASICS Men's Top Impact Singlet, Safety Yellow, Medium	
+B00NVR1558	ASICS Men's Top Impact Singlet, Safety Yellow, Small	
+B00NVR18OQ	ASICS Men's Top Impact Singlet, Safety Yellow, X-Large	
+B00NVR1BKW	ASICS Men's Top Impact Singlet, Performance Black, XX-Large	
+B00NVR18NC	ASICS Men's Top Impact Singlet, Performance Black, Large	
+B00NVR18JG	ASICS Men's Top Impact Singlet, Performance Black, Medium	
+B00NVR18H8	ASICS Men's Top Impact Singlet, Performance Black, Small	
+B00NVR1BKC	ASICS Men's Top Impact Singlet, Performance Black, X-Large	
+B00NVR8PIS	ASICS Men's Top Impact Knit Shorts, Performance Black, XX-Large	
+B00NVR8PK6	ASICS Men's Top Impact Knit Shorts, Performance Black, Large	
+B00NVR8MA4	ASICS Men's Top Impact Knit Shorts, Performance Black, Medium	
+B00NVR8PGA	ASICS Men's Top Impact Knit Shorts, Performance Black, X-Large	
+B00NVR8ZZ6	ASICS Women's Top Impact Bra, Safety Yellow, Large	
+B00NVR900K	ASICS Women's Top Impact Bra, Safety Yellow, Medium	
+B00NVR8VKU	ASICS Women's Top Impact Bra, Safety Yellow, Small	
+B00NVR9028	ASICS Women's Top Impact Bra, Safety Yellow, X-Large	
+B00NVR8VHI	ASICS Women's Top Impact Bra, Safety Yellow, X-Small	
+B00NVR930W	ASICS Women's Top Impact Bra, Diva Pink, Medium	
+B00NVR95FU	ASICS Women's Top Impact Singlet, Safety Yellow, Large	
+B00NVR958W	ASICS Women's Top Impact Singlet, Safety Yellow, Medium	
+B00NVR92X0	ASICS Women's Top Impact Singlet, Safety Yellow, Small	
+B00NVR95SC	ASICS Women's Top Impact Singlet, Safety Yellow, X-Large	
+B00NVR92SA	ASICS Women's Top Impact Singlet, Safety Yellow, X-Small	
+B00NVR9852	ASICS Women's Top Impact Singlet, Diva Pink, Large	
+B00NVR983Y	ASICS Women's Top Impact Singlet, Diva Pink, Medium	
+B00NVR9582	ASICS Women's Top Impact Singlet, Diva Pink, Small	
+B00NVR98E8	ASICS Women's Top Impact Singlet, Diva Pink, X-Large	
+B00NVR95G4	ASICS Women's Top Impact Singlet, Diva Pink, X-Small	
+B00NVR9EV0	ASICS Women's Top Impact Knit Shorts, Diva Pink, Large	
+B00NVR9F3C	ASICS Women's Top Impact Knit Shorts, Diva Pink, Medium	
+B00NVR987A	ASICS Women's Top Impact Knit Shorts, Diva Pink, Small	
+B00NVR9F7I	ASICS Women's Top Impact Knit Shorts, Diva Pink, X-Large	
+B00NVR98S4	ASICS Women's Top Impact Knit Shorts, Diva Pink, X-Small	
+B00NVR9JFQ	ASICS Women's Top Impact Knit Shorts, Frost Grey, Large	
+B00NVR9JHE	ASICS Women's Top Impact Knit Shorts, Frost Grey, Medium	
+B00NVR9ET2	ASICS Women's Top Impact Knit Shorts, Frost Grey, Small	
+B00NVR9JIS	ASICS Women's Top Impact Knit Shorts, Frost Grey, X-Large	
+B00NVR9EWY	ASICS Women's Top Impact Knit Shorts, Frost Grey, X-Small	
+B00NVRA2V6	ASICS Women's Top Impact Sprinter Shorts, Safety Yellow, Large	
+B00NVRA2PM	ASICS Women's Top Impact Sprinter Shorts, Safety Yellow, Medium	
+B00NVR9ZSM	ASICS Women's Top Impact Sprinter Shorts, Safety Yellow, Small	
+B00NVRA3Z6	ASICS Women's Top Impact Sprinter Shorts, Safety Yellow, X-Large	
+B00NVR9JJW	ASICS Women's Top Impact Sprinter Shorts, Safety Yellow, X-Small	
+B00NVRA73E	ASICS Women's Top Impact Sprinter Shorts, Diva Pink, Large	
+B00NVRA6RG	ASICS Women's Top Impact Sprinter Shorts, Diva Pink, Medium	
+B00NVRA31U	ASICS Women's Top Impact Sprinter Shorts, Diva Pink, Small	
+B00NVRA73O	ASICS Women's Top Impact Sprinter Shorts, Diva Pink, X-Large	
+B00NVRA2RA	ASICS Women's Top Impact Sprinter Shorts, Diva Pink, X-Small	
+B00NVRCGHY	ASICS Women's Studio Flex Spacer Bra, Purple Magic, Large	
+B00NVRCG7Y	ASICS Women's Studio Flex Spacer Bra, Purple Magic, Medium	
+B00NVRCG60	ASICS Women's Studio Flex Spacer Bra, Purple Magic, Small	
+B00NVRCG92	ASICS Women's Studio Flex Spacer Bra, Purple Magic, X-Large	
+B00NVRCDNG	ASICS Women's Studio Flex Spacer Bra, Purple Magic, X-Small	
+B00NVRCIQ8	ASICS Women's Studio Flex Spacer Bra, Cherry Tomato, Large	
+B00NVRCIHC	ASICS Women's Studio Flex Spacer Bra, Cherry Tomato, Medium	
+B00NVRCIIG	ASICS Women's Studio Flex Spacer Bra, Cherry Tomato, Small	
+B00NVRCIOU	ASICS Women's Studio Flex Spacer Bra, Cherry Tomato, X-Large	
+B00NVRCGC4	ASICS Women's Studio Flex Spacer Bra, Cherry Tomato, X-Small	
+B00NVRCODK	ASICS Women's Studio Flex Spacer Bra, Performance Black, Medium	
+B00NVRCOEY	ASICS Women's Studio Flex Spacer Bra, Performance Black, Small	
+B00NW2V7FU	ASICS Women's Studio Flex Spacer Bra, Performance Black, X-Small	
+B00NOL9LS4	ASICS Women's Fit-Sana Seamless Bra, Medium/Large, Real White	
+B00NOL9LRU	ASICS Women's Fit-Sana Seamless Bra, X-Small/Small, Real White	
+B00NOL9MJM	ASICS Women's Fit-Sana Seamless Bra, Medium/Large, Fizzy Peach	
+B00NOL9LT8	ASICS Women's Fit-Sana Seamless Bra, X-Large, Fizzy Peach	
+B00NOL9QNO	ASICS Women's Fit-Sana Seamless Bra, X-Small/Small, Fizzy Peach	
+B00NOL9QD4	ASICS Women's Fit-Sana Seamless Bra, Medium/Large, Performance Black	
+B00NOL9SQY	ASICS Women's Fit-Sana Seamless Bra, X-Large, Performance Black	
+B00NOL9QFW	ASICS Women's Fit-Sana Seamless Bra, X-Small/Small, Performance Black	
+B00NVRCSIG	ASICS Women's Studio Fit-Sana Seamless Bra, Cotton Candy, Medium/Large	
+B00NVRCSDQ	ASICS Women's Studio Fit-Sana Seamless Bra, Cotton Candy, X-Large	
+B00NVRCOZ8	ASICS Women's Studio Fit-Sana Seamless Bra, Cotton Candy, X-Small/Small	
+B00NOL9QEI	ASICS Women's Fit-Sana Seamless Bra, Medium/Large, Violet Tulip	
+B00NOL9WL0	ASICS Women's Fit-Sana Seamless Bra, X-Large, Violet Tulip	
+B00NOL9WEC	ASICS Women's Fit-Sana Seamless Bra, X-Small/Small, Violet Tulip	
+B00NVRCSNG	ASICS Women's Studio Fit-Sana Seamless Bra, Beach Glass, X-Large	
+B00NVRCSEU	ASICS Women's Studio Fit-Sana Seamless Bra, Beach Glass, X-Small/Small	
+B00KNCMT7W	ASICS Women's Studio Flex Tank, Purple Magic, Medium	
+B00KNCMUSU	ASICS Women's Studio Flex Tank, Purple Magic, Small	
+B00KNCMVXY	ASICS Women's Studio Flex Tank, Purple Magic, X-Large	
+B00KNCMX5A	ASICS Women's Studio Flex Tank, Purple Magic, X-Small	
+B00KNCMMBK	ASICS Women's Studio Flex Tank, Cherry Tomato, Small	
+B00KNCMHGU	ASICS Women's Studio Flex Tank, Performance Black, Small	
+B00KNCMJJU	ASICS Women's Studio Flex Tank, Performance Black, X-Small	
+B00KNB7P68	ASICS Women's Fit-Sana Contour Tank, Large, Performance Black	
+B00KNB7PSG	ASICS Women's Fit-Sana Contour Tank, Medium, Performance Black	
+B00KNB7QE4	ASICS Women's Fit-Sana Contour Tank, Small, Performance Black	
+B00KNB7QV2	ASICS Women's Fit-Sana Contour Tank, X-Large, Performance Black	
+B00KNB7RDO	ASICS Women's Fit-Sana Contour Tank, X-Small, Performance Black	
+B00KNB85O4	ASICS Women's Studio Fit-Sana Contour Tank, Cotton Candy, X-Small	
+B00KNB7S0G	ASICS Women's Fit-Sana Contour Tank, Large, Violet Tulip	
+B00KNB7TCS	ASICS Women's Fit-Sana Contour Tank, Medium, Violet Tulip	
+B00KNB7U4K	ASICS Women's Fit-Sana Contour Tank, Small, Violet Tulip	
+B00KNB7VE4	ASICS Women's Fit-Sana Contour Tank, X-Small, Violet Tulip	
+B00KNB81FM	ASICS Women's Studio Fit-Sana Contour Tank, Beach Glass, Large	
+B00KNB81UC	ASICS Women's Studio Fit-Sana Contour Tank, Beach Glass, Medium	
+B00KNB8292	ASICS Women's Studio Fit-Sana Contour Tank, Beach Glass, Small	
+B00KNB82WO	ASICS Women's Studio Fit-Sana Contour Tank, Beach Glass, X-Large	
+B00KNB839Q	ASICS Women's Studio Fit-Sana Contour Tank, Beach Glass, X-Small	
+B00KNBA0YM	ASICS Women's Studio Cleo Pop Double Tank, Real White, Large	
+B00KNBA4ZC	ASICS Women's Studio Cleo Pop Double Tank, Real White, X-Large	
+B00KNBA650	ASICS Women's Studio Cleo Pop Double Tank, Real White, X-Small	
+B00KNBAANS	ASICS Women's Studio Cleo Pop Double Tank, Ultra Pink, Large	
+B00KNBABOG	ASICS Women's Studio Cleo Pop Double Tank, Ultra Pink, Medium	
+B00KNBACUO	ASICS Women's Studio Cleo Pop Double Tank, Ultra Pink, Small	
+B00KNBADG2	ASICS Women's Studio Cleo Pop Double Tank, Ultra Pink, X-Large	
+B00KNBAE84	ASICS Women's Studio Cleo Pop Double Tank, Ultra Pink, X-Small	
+B00KNBA6IW	ASICS Women's Studio Cleo Pop Double Tank, Performance Black, Large	
+B00KNBA7FY	ASICS Women's Studio Cleo Pop Double Tank, Performance Black, Medium	
+B00KNBA8BC	ASICS Women's Studio Cleo Pop Double Tank, Performance Black, Small	
+B00KNBA916	ASICS Women's Studio Cleo Pop Double Tank, Performance Black, X-Large	
+B00KNBAA0Q	ASICS Women's Studio Cleo Pop Double Tank, Performance Black, X-Small	
+B00KNBAFV0	ASICS Women's Studio Cleo Pop Double Tank, Cool Mint, Large	
+B00KNBAHOA	ASICS Women's Studio Cleo Pop Double Tank, Cool Mint, X-Large	
+B00KNBAIP8	ASICS Women's Studio Cleo Pop Double Tank, Cool Mint, X-Small	
+B00KNB5QH8	ASICS Women's Studio Cleo Pop Double Wrap Short Sleeve T-Shirt, Real White, Medium	
+B00KNB5R1S	ASICS Women's Studio Cleo Pop Double Wrap Short Sleeve T-Shirt, Real White, Small	
+B00KNB5SJE	ASICS Women's Studio Cleo Pop Double Wrap Short Sleeve T-Shirt, Real White, X-Small	
+B00KNB62LM	ASICS Women's Studio Cleo Pop Double Wrap Short Sleeve T-Shirt, Ultra Pink, X-Small	
+B00KNB5WAE	ASICS Women's Studio Cleo Pop Double Wrap Short Sleeve T-Shirt, Cool Mint, Medium	
+B00KNB5X0I	ASICS Women's Studio Cleo Pop Double Wrap Short Sleeve T-Shirt, Cool Mint, Small	
+B00KNB5YDO	ASICS Women's Studio Cleo Pop Double Wrap Short Sleeve T-Shirt, Cool Mint, X-Small	
+B00KNB5P0Q	ASICS Women's Fit-Sana Graphic Tee T-shirt, Large, Real White	
+B00KNB5POC	ASICS Women's Fit-Sana Graphic Tee T-shirt, Medium, Real White	
+B00KNB5QSC	ASICS Women's Fit-Sana Graphic Tee T-shirt, Small, Real White	
+B005CWAI1M	ASICS Women's Fit-Sana Graphic Tee T-shirt, X-Large, Real White	
+B00KNB5RXQ	ASICS Women's Fit-Sana Graphic Tee T-shirt, X-Small, Real White	
+B00KNB5SXK	ASICS Women's Fit-Sana Graphic Tee T-shirt, Large, Purple Magic	
+B00KNB5VVO	ASICS Women's Fit-Sana Graphic Tee T-shirt, X-Large, Purple Magic	
+B00KNB5X2Q	ASICS Women's Fit-Sana Graphic Tee T-shirt, X-Small, Purple Magic	
+B00KNB62VW	ASICS Women's Studio Fit-Sana Graphic T-Shirt, Ultra Pink, Large	
+B00KNB63ZC	ASICS Women's Studio Fit-Sana Graphic T-Shirt, Ultra Pink, Medium	
+B00KNB653C	ASICS Women's Studio Fit-Sana Graphic T-Shirt, Ultra Pink, Small	
+B00KNB67D0	ASICS Women's Studio Fit-Sana Graphic T-Shirt, Ultra Pink, X-Small	
+B00KNB5Y0C	ASICS Women's Fit-Sana Graphic Tee T-shirt, Large, Cherry Tomato	
+B00KNB5YKC	ASICS Women's Fit-Sana Graphic Tee T-shirt, Medium, Cherry Tomato	
+B00KNB5ZDI	ASICS Women's Fit-Sana Graphic Tee T-shirt, Small, Cherry Tomato	
+B00KNB60GO	ASICS Women's Fit-Sana Graphic Tee T-shirt, X-Large, Cherry Tomato	
+B00KNB61TA	ASICS Women's Fit-Sana Graphic Tee T-shirt, X-Small, Cherry Tomato	
+B00KNB6BTK	ASICS Women's Studio Fit-Sana Graphic T-Shirt, Cool Mint, X-Small	
+B00NVQMN46	ASICS Women's Studio Flex Short Sleeve T-Shirt, Real White, Medium	
+B00NVQMMVU	ASICS Women's Studio Flex Short Sleeve T-Shirt, Real White, Small	
+B00NVQMKKI	ASICS Women's Studio Flex Short Sleeve T-Shirt, Real White, X-Small	
+B00NVQMYJU	ASICS Women's Studio Flex Short Sleeve T-Shirt, Violet Tulip, Medium	
+B00NVQMYO0	ASICS Women's Studio Flex Short Sleeve T-Shirt, Violet Tulip, Small	
+B00NVQMUQ2	ASICS Women's Studio Flex Short Sleeve T-Shirt, Violet Tulip, X-Small	
+B00KNCGA68	ASICS Women's Studio Cleo Pop Tunic, Real White, Large	
+B00KNCGAZO	ASICS Women's Studio Cleo Pop Tunic, Real White, Medium	
+B00KNCGC4S	ASICS Women's Studio Cleo Pop Tunic, Real White, Small	
+B00KNCGDYW	ASICS Women's Studio Cleo Pop Tunic, Real White, X-Small	
+B00KNCGKR2	ASICS Women's Studio Cleo Pop Tunic, Ultra Pink, Large	
+B00KNCGM70	ASICS Women's Studio Cleo Pop Tunic, Ultra Pink, Medium	
+B00KNCGN2Y	ASICS Women's Studio Cleo Pop Tunic, Ultra Pink, Small	
+B00KNCGOPA	ASICS Women's Studio Cleo Pop Tunic, Ultra Pink, X-Small	
+B00KNCGFOK	ASICS Women's Studio Cleo Pop Tunic, Cool Mint, Medium	
+B00KNCGH6G	ASICS Women's Studio Cleo Pop Tunic, Cool Mint, Small	
+B00KNCGJHS	ASICS Women's Studio Cleo Pop Tunic, Cool Mint, X-Small	
+B00KNB5LB4	ASICS Women's Fit-Sana FZ Jacket, Large, Purple Magic	
+B00KNB5LX2	ASICS Women's Fit-Sana FZ Jacket, Medium, Purple Magic	
+B00KNB5NBM	ASICS Women's Fit-Sana FZ Jacket, Small, Purple Magic	
+B00KNB5P1K	ASICS Women's Fit-Sana FZ Jacket, X-Large, Purple Magic	
+B00KNB5Q1Y	ASICS Women's Fit-Sana FZ Jacket, X-Small, Purple Magic	
+B00KNB5VBY	ASICS Women's Studio Fit-Sana Full Zip Jacket, Ultra Pink, Large	
+B00KNB5WTU	ASICS Women's Studio Fit-Sana Full Zip Jacket, Ultra Pink, Medium	
+B00KNB5XTE	ASICS Women's Studio Fit-Sana Full Zip Jacket, Ultra Pink, Small	
+B00KNB5YVG	ASICS Women's Studio Fit-Sana Full Zip Jacket, Ultra Pink, X-Small	
+B00KNB5GLO	ASICS Women's Fit-Sana FZ Jacket, Large, Cherry Tomato	
+B00KNB5HZ4	ASICS Women's Fit-Sana FZ Jacket, Medium, Cherry Tomato	
+B00KNB5IQW	ASICS Women's Fit-Sana FZ Jacket, Small, Cherry Tomato	
+B00KNB5JMU	ASICS Women's Fit-Sana FZ Jacket, X-Large, Cherry Tomato	
+B00KNB5KJW	ASICS Women's Fit-Sana FZ Jacket, X-Small, Cherry Tomato	
+B00KNB5AQA	ASICS Women's Fit-Sana FZ Jacket, Large, Performance Black	
+B00KNB5CCW	ASICS Women's Fit-Sana FZ Jacket, Medium, Performance Black	
+B00KNB5DX0	ASICS Women's Fit-Sana FZ Jacket, Small, Performance Black	
+B00KNB5EY8	ASICS Women's Fit-Sana FZ Jacket, X-Large, Performance Black	
+B00KNB5FOM	ASICS Women's Fit-Sana FZ Jacket, X-Small, Performance Black	
+B00KNB5R5E	ASICS Women's Studio Fit-Sana Full Zip Jacket, Cool Mint, Large	
+B00KNB5RSG	ASICS Women's Studio Fit-Sana Full Zip Jacket, Cool Mint, Medium	
+B00KNB5T34	ASICS Women's Studio Fit-Sana Full Zip Jacket, Cool Mint, Small	
+B00KNB5U6K	ASICS Women's Studio Fit-Sana Full Zip Jacket, Cool Mint, X-Small	
+B00KNB43NQ	ASICS Women's Fit-Sana Seamless Capri, Large, Purple Magic	
+B00KNB44HQ	ASICS Women's Fit-Sana Seamless Capri, Medium, Purple Magic	
+B00KNB45IO	ASICS Women's Fit-Sana Seamless Capri, Small, Purple Magic	
+B00KNB468S	ASICS Women's Fit-Sana Seamless Capri, X-Small, Purple Magic	
+B00KNB4DAE	ASICS Women's Studio Fit-Sana Seamless Capri, Ultra Pink, Large	
+B00KNB4DSG	ASICS Women's Studio Fit-Sana Seamless Capri, Ultra Pink, Medium	
+B00KNB4EO4	ASICS Women's Studio Fit-Sana Seamless Capri, Ultra Pink, Small	
+B00KNB4FM0	ASICS Women's Studio Fit-Sana Seamless Capri, Ultra Pink, X-Small	
+B00KNB473M	ASICS Women's Fit-Sana Seamless Capri, Large, Cherry Tomato	
+B00KNB48E0	ASICS Women's Fit-Sana Seamless Capri, Small, Cherry Tomato	
+B00KNB49NU	ASICS Women's Fit-Sana Seamless Capri, X-Small, Cherry Tomato	
+B00KNB4GGK	ASICS Women's Fit-Sana Seamless Capri, Large, Steel	
+B00KNB4H8W	ASICS Women's Fit-Sana Seamless Capri, Medium, Steel	
+B00KNB4I18	ASICS Women's Fit-Sana Seamless Capri, Small, Steel	
+B00KNB4ING	ASICS Women's Fit-Sana Seamless Capri, X-Small, Steel	
+B00KNB4C64	ASICS Women's Studio Fit-Sana Seamless Capri, Cool Mint, Small	
+B00NVQR0JO	ASICS Women's Studio Cleo Pop Laki Capri, Performance Black, X-Small	
+B00NVQR3G4	ASICS Women's Studio Flex Capri, Performance Black, Small	
+B00NVQR3IW	ASICS Women's Studio Flex Capri, Performance Black, X-Small	
+B00NVQR774	ASICS Women's Studio Flex Capri, Steel, X-Small	
+                                                                                                                                             B00KNB7CN4	ASICS Women's Studio Cleo Pop Shorts, Ultra Pink, Medium	
+B00KNB7DFQ	ASICS Women's Studio Cleo Pop Shorts, Ultra Pink, Small	
+B00KNB7F8Q	ASICS Women's Studio Cleo Pop Shorts, Ultra Pink, X-Small	
+B00KNB6X20	ASICS Women's Studio Cleo Pop Shorts, Geo Tribal Print, Large	
+B00KNB71NK	ASICS Women's Studio Cleo Pop Shorts, Geo Tribal Print, X-Small	
+B00KNB755O	ASICS Women's Studio Cleo Pop Shorts, Performance Black, Small	
+B00KNB77DY	ASICS Women's Studio Cleo Pop Shorts, Performance Black, X-Small	
+B00KNB79X2	ASICS Women's Studio Cleo Pop Shorts, Cool Mint, Small	
+B00KNB7B26	ASICS Women's Studio Cleo Pop Shorts, Cool Mint, X-Small	
+B00KNB36MU	ASICS Women's Fit-Sana Booty Short, Large, Purple Magic	
+B00KNB376K	ASICS Women's Fit-Sana Booty Short, Medium, Purple Magic	
+B00KNB3864	ASICS Women's Fit-Sana Booty Short, Small, Purple Magic	
+B00KNB38UA	ASICS Women's Fit-Sana Booty Short, X-Large, Purple Magic	
+B00KNB395O	ASICS Women's Fit-Sana Booty Short, X-Small, Purple Magic	
+B00KNB3DAK	ASICS Women's Studio Fit-Sana Booty Shorts, Ultra Pink, Large	
+B00KNB3E0Y	ASICS Women's Studio Fit-Sana Booty Shorts, Ultra Pink, Medium	
+B00KNB3EOA	ASICS Women's Studio Fit-Sana Booty Shorts, Ultra Pink, Small	
+B00KNB3FVC	ASICS Women's Studio Fit-Sana Booty Shorts, Ultra Pink, X-Small	
+B00NOLASRM	ASICS Women's Fit-Sana Booty Short, Large, Cherry Tomato	
+B00NOLAVVA	ASICS Women's Fit-Sana Booty Short, Medium, Cherry Tomato	
+B00NOLAW4Q	ASICS Women's Fit-Sana Booty Short, Small, Cherry Tomato	
+B00NOLAW4G	ASICS Women's Fit-Sana Booty Short, X-Large, Cherry Tomato	
+B00NOLAVY2	ASICS Women's Fit-Sana Booty Short, X-Small, Cherry Tomato	
+B00KNB3GH0	ASICS Women's Fit-Sana Booty Short, Large, Performance Black	
+B00KNB3GZM	ASICS Women's Fit-Sana Booty Short, Medium, Performance Black	
+B00KNB3I0U	ASICS Women's Fit-Sana Booty Short, Small, Performance Black	
+B00KNB3K1C	ASICS Women's Fit-Sana Booty Short, X-Large, Performance Black	
+B00KNB3KMG	ASICS Women's Fit-Sana Booty Short, X-Small, Performance Black	
+B00KNB39ZO	ASICS Women's Studio Fit-Sana Booty Shorts, Cool Mint, Large	
+B00KNB3ASK	ASICS Women's Studio Fit-Sana Booty Shorts, Cool Mint, Medium	
+B00KNB3BB6	ASICS Women's Studio Fit-Sana Booty Shorts, Cool Mint, Small	
+B00KNB3CNI	ASICS Women's Studio Fit-Sana Booty Shorts, Cool Mint, X-Small	
+B00KNCHR4W	ASICS Women's Studio Flex Shorts, Purple Magic, Small	
+B00KNCHSKK	ASICS Women's Studio Flex Shorts, Purple Magic, X-Small	
+B00KNCHLDO	ASICS Women's Studio Flex Shorts, Cherry Tomato, Large	
+B00KNCHMB0	ASICS Women's Studio Flex Shorts, Cherry Tomato, Medium	
+B00KNCHN0K	ASICS Women's Studio Flex Shorts, Cherry Tomato, Small	
+B00KNCHO1I	ASICS Women's Studio Flex Shorts, Cherry Tomato, X-Large	
+B00KNCHP12	ASICS Women's Studio Flex Shorts, Cherry Tomato, X-Small	
+B00KNCHWEM	ASICS Women's Studio Flex Shorts, Performance Black, X-Small	
+B00KNCJUK6	ASICS Women's Studio Cleo Pop Barre Tights, Geo Tribal Print, X-Large	
+B00NVQWM9C	ASICS Women's Studio Cleo Pop Barre Tights, Performance Black, X-Small	
+B00NVQWRSS	ASICS Women's Studio Flex Tights, Performance Black, Large	
+B00NVQWRV0	ASICS Women's Studio Flex Tights, Performance Black, Medium	
+B00NVQWRVA	ASICS Women's Studio Flex Tights, Performance Black, Small	
+B00NVQWRVU	ASICS Women's Studio Flex Tights, Performance Black, X-Small	
+B00KNB85MG	ASICS Women's Fit-Sana Scalloped Pant, Large, Purple Magic	
+B00KNB85Y4	ASICS Women's Fit-Sana Scalloped Pant, Medium, Purple Magic	
+B00KNB86I4	ASICS Women's Fit-Sana Scalloped Pant, Small, Purple Magic	
+B00KNB86VG	ASICS Women's Fit-Sana Scalloped Pant, X-Large, Purple Magic	
+B00KNB87C4	ASICS Women's Fit-Sana Scalloped Pant, X-Small, Purple Magic	
+B00KNB8AOE	ASICS Women's Studio Fit-Sana Scalloped Pants, Ultra Pink, Medium	
+B00KNB8B70	ASICS Women's Studio Fit-Sana Scalloped Pants, Ultra Pink, Small	
+B00KNB8CJM	ASICS Women's Studio Fit-Sana Scalloped Pants, Ultra Pink, X-Small	
+B00KNB82YM	ASICS Women's Fit-Sana Scalloped Pant, Large, Cherry Tomato	
+B00KNB83JG	ASICS Women's Fit-Sana Scalloped Pant, Medium, Cherry Tomato	
+B00KNB84TA	ASICS Women's Fit-Sana Scalloped Pant, X-Large, Cherry Tomato	
+B00KNB858U	ASICS Women's Fit-Sana Scalloped Pant, X-Small, Cherry Tomato	
+B00KNB885K	ASICS Women's Studio Fit-Sana Scalloped Pants, Cool Mint, Medium	
+B00KNB89Y0	ASICS Women's Studio Fit-Sana Scalloped Pants, Cool Mint, X-Small	
+B00KNCIP2A	ASICS Women's Studio Cleo Pop Capri, Geo Tribal Print, Large	
+B00KNCIQ9W	ASICS Women's Studio Cleo Pop Capri, Geo Tribal Print, Medium	
+B00KNCIR82	ASICS Women's Studio Cleo Pop Capri, Geo Tribal Print, Small	
+B00KNCIS54	ASICS Women's Studio Cleo Pop Capri, Geo Tribal Print, X-Large	
+B00KNCISTU	ASICS Women's Studio Cleo Pop Capri, Geo Tribal Print, X-Small	
+B00NVR4DR0	ASICS Women's Studio Cleo Pop Capri, Performance Black, X-Large	
+B00NVR4AFK	ASICS Women's Studio Cleo Pop Capri, Performance Black, X-Small	
+B00KNBIGJS	ASICS Women's Fit-Sana 2-n-1 Short, Large, Purple Magic	
+B00KNBIHIS	ASICS Women's Fit-Sana 2-n-1 Short, Medium, Purple Magic	
+B00KNBIIS2	ASICS Women's Fit-Sana 2-n-1 Short, Small, Purple Magic	
+B00KNBIJO0	ASICS Women's Fit-Sana 2-n-1 Short, X-Large, Purple Magic	
+B00KNBIKN0	ASICS Women's Fit-Sana 2-n-1 Short, X-Small, Purple Magic	
+B00KNB3ABW	ASICS Women's Studio Fit-Sana 2-N-1 Shorts, Ultra Pink, Medium	
+B00KNB3BIE	ASICS Women's Studio Fit-Sana 2-N-1 Shorts, Ultra Pink, X-Large	
+B00KNB3ECC	ASICS Women's Studio Fit-Sana 2-N-1 Shorts, Ultra Pink, X-Small	
