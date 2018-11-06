@@ -1,0 +1,421 @@
+ASIN	Title
+B00YPSH4WA	Mens ASICS Fujitrail Sleeveless Top, Dark Grey, XL	
+B0117MWM50	Mens ASICS Jacket, Hampton Green, XXL	
+B0117MW8K4	Mens ASICS Jacket, Hampton Green, Large	
+B0117MWCKA	Mens ASICS Jacket, Hampton Green, Medium	
+B0117MWFZM	Missing Detail page	
+B0117MWJ76	Mens ASICS Jacket, Hampton Green, X-Large	
+B0117MXSL2	Mens ASICS Tight, Dark Grey Storm, XXL	
+B0117MXEPW	Mens ASICS Tight, Dark Grey Storm, Large	
+B0117MXM9U	Mens ASICS Tight, Dark Grey Storm, Small	
+B0117MXPKQ	Mens ASICS Tight, Dark Grey Storm, X-Large	
+B00Q5HIZ5Y	ASICS Men's Seamless Long Sleeve Hampton Green SM	
+B00Q5HJ062	ASICS Men's Seamless Long Sleeve Hampton Green XL	
+B00Q5HQXNA	ASICS Men's Seamless Short Sleeve Hampton Green T-Shirt LG	
+B00Q5HIC66	ASICS Men's Seamless Short Sleeve Hampton Green T-Shirt MD	
+B00Q5HID2O	ASICS Men's Seamless Short Sleeve Hampton Green T-Shirt SM	
+B00Q5HIE82	Missing Detail page	
+B00Q5HIGJO	ASICS Men's Seamless Short Sleeve Dark Cobalt T-Shirt LG	
+B00Q5HII5G	ASICS Men's Seamless Short Sleeve Dark Cobalt T-Shirt MD	
+B00Q5HIJFA	ASICS Men's Seamless Short Sleeve Dark Cobalt T-Shirt SM	
+B00Q5HIKKY	Asics Men's Seamless S/S T-Shirt Dark Cobalt XL	
+B00Q1UI13Q	ASICS Women's Tier One Jacket Rouge Noir LG (US 10-12)	
+B00Q1UI212	Missing Detail page	
+B00Q1UI2R6	ASICS Women's Tier One Jacket Rouge Noir SM (US 6-8)	
+B00Q1UI3UW	ASICS Women's Tier One Jacket Rouge Noir XL (US 12-14)	
+B00Q1UI4S8	ASICS Women's Tier One Jacket Rouge Noir XS (US 4-6)	
+B00Q1UI5V4	Missing Detail page	
+B00Q1UI6S6	Missing Detail page	
+B00Q1UI7RQ	Missing Detail page	
+B00Q1UI8QG	Missing Detail page	
+B00Q1UI9L0	Missing Detail page	
+B00Q1U6Y62	ASICS Women's Tier One Graphic Tight Aurora Print LG (US 10-12) X 29	
+B00Q1U6YXA	ASICS Women's Tier One Graphic Tight Aurora Print MD (US 8-10) X 29	
+B00Q1U6ZSY	ASICS Women's Tier One Graphic Tight Aurora Print SM (US 6-8) X 29	
+B00Q1U70S8	ASICS Women's Tier One Graphic Tight Aurora Print XL (US 12-14) X 29	
+B00Q1U71KA	ASICS Women's Tier One Graphic Tight Aurora Print XS (US 4-6) X 29	
+B00Q1U6ULQ	ASICS Women's Tier One Graphic Tight Dark Grey Storm Print LG (US 10-12) X 29	
+B00Q1U6V8S	ASICS Women's Tier One Graphic Tight Dark Grey Storm Print MD (US 8-10) X 29	
+B00Q1U6W0U	ASICS Women's Tier One Graphic Tight Dark Grey Storm Print SM (US 6-8) X 29	
+B00Q1U6WNM	ASICS Women's Tier One Graphic Tight Dark Grey Storm Print XL (US 12-14) X 29	
+B00Q1U6XFO	ASICS Women's Tier One Graphic Tight Dark Grey Storm Print XS (US 4-6) X 29	
+B0117NM8WQ	Womens ASICS Tee, Rouge Noir Heather, Large	
+B0117NMAHE	Womens ASICS Tee, Rouge Noir Heather, Medium	
+B0117NMBV4	Womens ASICS Tee, Rouge Noir Heather, Small	
+B0117NMDY4	Womens ASICS Tee, Rouge Noir Heather, X-Large	
+B0117NMFZQ	Womens ASICS Tee, Rouge Noir Heather, X-Small	
+B0117NLYVM	Womens ASICS Tee, Heather Grey, Large	
+B0117NM1IC	Womens ASICS Tee, Heather Grey, Medium	
+B0117NM3C6	Womens ASICS Tee, Heather Grey, Small	
+B0117NM506	Womens ASICS Tee, Heather Grey, X-Large	
+B0117NM70O	Womens ASICS Tee, Heather Grey, X-Small	
+B0117NLOW6	Womens ASICS Tee, Dark Grey Heather, Large	
+B0117NLR6O	Womens ASICS Tee, Dark Grey Heather, Medium	
+B0117NLT4O	Womens ASICS Tee, Dark Grey Heather, Small	
+B0117NLV6A	Womens ASICS Tee, Dark Grey Heather, X-Large	
+B0117NLX68	Womens ASICS Tee, Dark Grey Heather, X-Small	
+B00YPSD28U	Womens ASICS Fit-Sana Seamless Bra, Byzantium, L	
+B00YPSD48S	Womens ASICS Fit-Sana Seamless Bra, Byzantium, M	
+B00YPSD6A4	Womens ASICS Fit-Sana Seamless Bra, Byzantium, S	
+B00YPSD8F2	Womens ASICS Fit-Sana Seamless Bra, Byzantium, XL	
+B00YPSDALO	Womens ASICS Fit-Sana Seamless Bra, Byzantium, XS	
+B00YPSCSIU	Womens ASICS Fit-Sana Seamless Bra, Urban Grey, L	
+B00YPSCUJ2	Womens ASICS Fit-Sana Seamless Bra, Urban Grey, M	
+B00YPSCWKY	Womens ASICS Fit-Sana Seamless Bra, Urban Grey, S	
+B00YPSCYP2	Womens ASICS Fit-Sana Seamless Bra, Urban Grey, XL	
+B00YPSD0DW	Womens ASICS Fit-Sana Seamless Bra, Urban Grey, XS	
+B00YPSCI6C	Womens ASICS Fit-Sana Seamless Bra, Performance Black, L	
+B00YPSCKAG	Asics Women's Fit-Sana Seamless Bra	
+B00YPSCMHC	Asics Women's Fit-Sana Seamless Bra	
+B00YPSCOYS	Womens ASICS Fit-Sana Seamless Bra, Performance Black, XL	
+B00YPSCQUK	Womens ASICS Fit-Sana Seamless Bra, Performance Black, XS	
+B00Q20I0CM	Womens ASICS Fit-Sana Slim Tank, Vanilla Ice, L	
+B00Q20I2BQ	Asics 125859 Womens Fit-Sana Slim Tank, Vanilla Ice-M	
+B00Q20I40K	Asics Womens Fit-Sana Slim Tank, S	
+B00Q20I5OA	ASICS Womens Studio Fit Sana Slimcut Tank Vanilla Ice Tank Top XL (US 12-14)	
+B00Q20I7EI	Asics Womens Fit-Sana Slim Tank, Xs	
+B00Q20I964	Asics 125859 Womens Fit-Sana Slim Tank, Blackberry Cordial-L	
+B00Q20IAZY	Womens ASICS Fit-Sana Slim Tank, Blackberry Cordial, Medium / US 8-10	
+B00Q20ICKM	Womens ASICS Fit-Sana Slim Tank, Blackberry Cordial, Small / US 6-8	
+B00Q20IEMI	Womens ASICS Fit-Sana Slim Tank, Blackberry Cordial, XL	
+B00Q20IGE4	Womens ASICS Fit-Sana Slim Tank, Blackberry Cordial, XS	
+B00Q20HHYY	ASICS Women's Studio Fit Sana Slimcut Tank Performance Black LG (US 10-12)	
+B00Q20HJQK	ASICS Women's Studio Fit Sana Slimcut Tank Performance Black MD (US 8-10)	
+B00Q20HM62	ASICS Women's Studio Fit Sana Slimcut Tank Performance Black SM (US 6-8)	
+B00Q20HNUC	ASICS Women's Studio Fit Sana Slimcut Tank Performance Black XL (US 12-14)	
+B00Q20HQNG	ASICS Women's Studio Fit Sana Slimcut Tank Performance Black XS (US 4-6)	
+B00Q20HSMK	Asics Womens Fit-Sana Slim Tank, L	
+B00Q20HTTW	Asics Womens Fit-Sana Slim Tank, M	
+B00Q20HVNG	Asics Womens Fit-Sana Slim Tank, S	
+B00Q20HWYY	Womens ASICS Fit-Sana Slim Tank, Aqua Mint, XL	
+B00Q20HYK6	Asics Womens Fit-Sana Slim Tank, Xs	
+B00Q3BVHDE	Womens ASICS Fit-Sana Reversible Tank, Vanilla Ice/Grey, L	
+B00Q3BVIWY	Womens ASICS Fit-Sana Reversible Tank, Vanilla Ice/Grey, Medium / US 8-10	
+B00Q3BVKOA	Womens ASICS Fit-Sana Reversible Tank, Vanilla Ice/Grey, Small / US 6-8	
+B00Q3BVN42	ASICS Women's Fit-Sana Reversible Tank, Vanilla Ice/Grey, XL	
+B00Q3BVOLY	Womens ASICS Fit-Sana Reversible Tank, Vanilla Ice/Grey, XS	
+B00Q3BVZEA	ASICS Women's Studio Fit Sana Reversible Tank Blackberry Cordial/Byzantium Shirt	
+B00Q3BW15M	ASICS Women's Studio Fit Sana Reversible Tank Blackberry Cordial/Byzantium Shirt	
+B00Q3BW38W	ASICS Women's Studio Fit Sana Reversible Tank Blackberry Cordial/Byzantium Shirt	
+B00Q3BW4Y0	ASICS Women's Studio Fit Sana Reversible Tank Blackberry Cordial/Byzantium Tank Top XL (US 12-14)	
+B00Q3BW6RA	ASICS Women's Studio Fit Sana Reversible Tank Blackberry Cordial/Byzantium Shirt	
+B00Q3BV7A2	Womens ASICS Fit-Sana Reversible Tank, Dark Grey/Black, L	
+B00Q3BV96O	Womens ASICS Fit-Sana Reversible Tank, Dark Grey/Black, Medium / US 8-10	
+B00Q3BVB9O	Asics 125860 Womens Fit-Sana Reversible Tank, Dark Grey/Performance Black-S	
+B00Q3BVE4Q	Womens ASICS Fit-Sana Reversible Tank, Dark Grey/Black, XL	
+B00Q3BVFPE	Womens ASICS Fit-Sana Reversible Tank (X-Small, Dark Grey/Black)	
+B00Q3BVRN4	ASICS Women's Studio Fit Sana Reversible Tank Aqua Mint/Indigo Blue Tank Top LG (US 10-12)	
+B00Q3BVT0A	Asics 125860 Womens Fit-Sana Reversible Tank, Aqua Mint/Indigo Blue-M	
+B00Q3BVUFE	ASICS Women's Studio Fit Sana Reversible Tank Aqua Mint/Indigo Blue SM (US 6-8)	
+B00Q3BVVVW	ASICS Women's Studio Fit Sana Reversible Tank Aqua Mint/Indigo Blue Tank Top XL (US 12-14)	
+B00Q3BVXQU	ASICS Women's Studio Fit Sana Reversible Tank Aqua Mint/Indigo Blue Tank Top XS (US 4-6)	
+B00Q3BYBDC	Womens ASICS Fit-Sana Reversible Short Sleeve, Vanilla Ice/Grey, L	
+B00Q3BYCTU	Womens ASICS Fit-Sana Reversible Short Sleeve, Vanilla Ice/Grey, Medium / US 8-10	
+B00Q3BYEFM	Womens ASICS Fit-Sana Reversible Short Sleeve, Vanilla Ice/Grey, Small / US 6-8	
+B00Q3BYG8C	Womens ASICS Fit-Sana Reversible Short Sleeve, Vanilla Ice/Grey, XL	
+B00Q3BYL1E	Womens ASICS Fit-Sana Reversible Short Sleeve, Vanilla Ice/Grey, XS	
+B00Q3BY2PY	ASICS Women's Studio Fit Sana Reversible Short Sleeve Top Dark Grey/Performance Black LG (US 10-12)	
+B00Q3BY49S	ASICS Women's Studio Fit Sana Reversible Short Sleeve Top Dark Grey/Performance Black MD (US 8-10)	
+B00Q3BY628	ASICS Women's Studio Fit Sana Reversible Short Sleeve Top Dark Grey/Performance Black SM (US 6-8)	
+B00Q3BY7Y0	ASICS Women's Studio Fit Sana Reversible Short Sleeve Top Dark Grey/Performance Black XL (US 12-14)	
+B00Q3BY9UM	ASICS Women's Studio Fit Sana Reversible Short Sleeve Top Dark Grey/Performance Black XS (US 4-6)	
+B00Q3BYN08	Missing Detail page	
+B00Q3BYOG6	ASICS Women's Studio Fit Sana Reversible Short Sleeve Top Aqua Mint/Indigo Blue MD (US 8-10)	
+B00Q3BYPOW	ASICS Women's Studio Fit Sana Reversible Short Sleeve Top Aqua Mint/Indigo Blue SM (US 6-8)	
+B00Q3BYR54	ASICS Women's Studio Fit Sana Reversible Short Sleeve Top Aqua Mint/Indigo Blue XL (US 12-14)	
+B00Q3BYSPI	ASICS Women's Studio Fit Sana Reversible Short Sleeve Top Aqua Mint/Indigo Blue XS (US 4-6)	
+B00Q3BZI9I	ASICS Women's Studio Fit Sana Slimcut Contrast Long Sleeve Top Vanilla Ice LG (US 10-12)	
+B00Q3BZJM4	ASICS Women's Studio Fit Sana Slimcut Contrast Long Sleeve Top Vanilla Ice MD (US 8-10)	
+B00Q3BZMLW	ASICS Women's Studio Fit Sana Slimcut Contrast Long Sleeve Top Vanilla Ice SM (US 6-8)	
+B00Q3BZOTC	ASICS Women's Studio Fit Sana Slimcut Contrast Long Sleeve Top Vanilla Ice XL (US 12-14)	
+B00Q3BZQ86	ASICS Women's Studio Fit Sana Slimcut Contrast Long Sleeve Top Vanilla Ice XS (US 4-6)	
+B00Q3C00T0	ASICS Women's Studio Fit Sana Slimcut Contrast Long Sleeve Top BlackBerry Cordial LG (US 10-12)	
+B00Q3C02EI	ASICS Women's Studio Fit Sana Slimcut Contrast Long Sleeve Top Blackberry Cordial T-Shirt MD (US 8-10)	
+B00Q3C046O	ASICS Women's Studio Fit Sana Slimcut Contrast Long Sleeve Top BlackBerry Cordial SM (US 6-8)	
+B00Q3C07N4	ASICS Women's Studio Fit Sana Slimcut Contrast Long Sleeve Top BlackBerry Cordial XS (US 4-6)	
+B00Q3C098W	ASICS Women's Studio Fit Sana Slimcut Contrast Long Sleeve Top Port Royale LG (US 10-12)	
+B00Q3C0AQI	ASICS Women's Studio Fit Sana Slimcut Contrast Long Sleeve Top Port Royale MD (US 8-10)	
+B00Q3C0CSO	ASICS Women's Studio Fit Sana Slimcut Contrast Long Sleeve Top Port Royale T-Shirt SM (US 6-8)	
+B00Q3C0E8W	ASICS Women's Studio Fit Sana Slimcut Contrast Long Sleeve Top Port Royale T-Shirt XL (US 12-14)	
+B00Q3C0FMC	ASICS Women's Studio Fit Sana Slimcut Contrast Long Sleeve Top Port Royale XS (US 4-6)	
+B00Q3BZS1G	ASICS Women's Studio Fit Sana Slimcut Contrast Long Sleeve Top Aqua Mint LG (US 10-12)	
+B00Q3BZTSI	ASICS Women's Studio Fit Sana Slimcut Contrast Long Sleeve Top Aqua Mint MD (US 8-10)	
+B00Q3BZVKY	ASICS Women's Studio Fit Sana Slimcut Contrast Long Sleeve Top Aqua Mint SM (US 6-8)	
+B00Q3BZX20	ASICS Women's Studio Fit Sana Slimcut Contrast Long Sleeve Top Aqua Mint XL (US 12-14)	
+B00Q3BZYYW	ASICS Women's Studio Fit Sana Slimcut Contrast Long Sleeve Top Aqua Mint XS (US 4-6)	
+B00Q1ZSEEM	ASICS Women's Studio Fit Sana Hoodie Blackberry Cordial Sweatshirt LG (US 10-12)	
+B00Q1ZSGE0	ASICS Women's Studio Fit Sana Hoodie Blackberry Cordial Sweatshirt MD (US 8-10)	
+B00Q1ZSI8Y	Missing Detail page	
+B00Q1ZSQ72	ASICS Women's Studio Fit Sana Hoodie Blackberry Cordial Sweatshirt XS (US 4-6)	
+B00Q1ZSSGG	ASICS Women's Studio Fit Sana Hoodie Port Royale LG (US 10-12)	
+B00Q1ZSUV4	ASICS Women's Studio Fit Sana Hoodie Port Royale MD (US 8-10)	
+B00Q1ZSXCU	Missing Detail page	
+B00Q1ZT1CQ	Missing Detail page	
+B00Q1ZT3ZQ	Missing Detail page	
+B00Q1ZT91E	ASICS Women's Studio Fit Sana Hoodie Performance Black MD (US 8-10)	
+B00Q1ZTBBM	ASICS Women's Studio Fit Sana Hoodie Performance Black SM (US 6-8)	
+B00Q1ZS384	Missing Detail page	
+B00Q1ZS578	Missing Detail page	
+B00Q1ZS7AS	Missing Detail page	
+B00Q1ZSCDA	Missing Detail page	
+B00YPRRCCS	Womens ASICS Fit-Sana Zip Hoody, Blackberry Cordial, L	
+B00YPRRFH0	Womens ASICS Fit-Sana Zip Hoody, Blackberry Cordial, M	
+B00YPRRHWS	Womens ASICS Fit-Sana Zip Hoody, Blackberry Cordial, S	
+B00YPRRKBQ	Womens ASICS Fit-Sana Zip Hoody, Blackberry Cordial, XL	
+B00YPRRNQ8	Missing Detail page	
+B00YPRRQOM	ASICS Women's Fit-Sana Zip Hoodie Port Royale Sweatshirt LG (US 10-12)	
+B00YPRRV0G	ASICS Women's Fit-Sana Zip Hoodie Port Royale Sweatshirt MD (US 8-10)	
+B00YPRS3ZS	ASICS Women's Fit-Sana Zip Hoodie Port Royale Sweatshirt SM (US 6-8)	
+B00YPRS9Z2	ASICS Women's Fit-Sana Zip Hoodie Port Royale Sweatshirt XS (US 4-6)	
+B00YPRQJE0	Womens ASICS Fit-Sana Zip Hoody, Performance Black, M	
+B00YPRQM0Q	Womens ASICS Fit-Sana Zip Hoody, Performance Black, S	
+B00YPRQU1M	Womens ASICS Fit-Sana Zip Hoody, Performance Black, XS	
+B00YPRQWZ6	ASICS Women's Fit-Sana Zip Hoodie Indigo Blue Sweatshirt LG (US 10-12)	
+B00YPRQZX0	Missing Detail page	
+B00YPRR2W8	Missing Detail page	
+B00YPRR610	ASICS Women's Fit-Sana Zip Hoodie Indigo Blue Sweatshirt XL (US 12-14)	
+B00YPRR9EO	ASICS Women's Fit-Sana Zip Hoodie Indigo Blue Sweatshirt XS (US 4-6)	
+B00YPS3MH6	Womens ASICS Fit-Sana Jacquard Hot Pant, Port Royale, L	
+B00YPS3OQK	Womens ASICS Fit-Sana Jacquard Hot Pant, Port Royale, M	
+B00YPS3QZE	Womens ASICS Fit-Sana Jacquard Hot Pant, Port Royale, S	
+B00YPS3T8I	Womens ASICS Fit-Sana Jacquard Hot Pant, Port Royale, XL	
+B00YPS3VPE	Womens ASICS Fit-Sana Jacquard Hot Pant, Port Royale, XS	
+B00YPS2TCU	Womens ASICS Fit-Sana Jacquard Hot Pant, Performance Black, L	
+B00YPS2WAY	Womens ASICS Fit-Sana Jacquard Hot Pant, Performance Black, M	
+B00YPS2Z10	Womens ASICS Fit-Sana Jacquard Hot Pant, Performance Black, S	
+B00YPS31CW	Womens ASICS Fit-Sana Jacquard Hot Pant, Performance Black, XL	
+B00YPS33O8	Womens ASICS Fit-Sana Jacquard Hot Pant, Performance Black, XS	
+B00YPS36JA	Womens ASICS Fit-Sana Jacquard Hot Pant, Indigo Blue, L	
+B00YPS39S8	Womens ASICS Fit-Sana Jacquard Hot Pant, Indigo Blue, M	
+B00YPS3D48	Womens ASICS Fit-Sana Jacquard Hot Pant, Indigo Blue, S	
+B00YPS3HBM	Womens ASICS Fit-Sana Jacquard Hot Pant, Indigo Blue, XL	
+B00YPS3K0U	Womens ASICS Fit-Sana Jacquard Hot Pant, Indigo Blue, XS	
+B00YPSBEOY	ASICS Womens Fit-Sana Wrap Short, Port Royale, L	
+B00YPSBHAA	Womens ASICS Fit-Sana Wrap Short, Port Royale, M	
+B00YPSBJL2	Womens ASICS Fit-Sana Wrap Short, Port Royale, S	
+B00YPSBLLA	Womens ASICS Fit-Sana Wrap Short, Port Royale, XL	
+B00YPSBN7M	Womens ASICS Fit-Sana Wrap Short, Port Royale, XS	
+B00YPSAT5E	Womens ASICS Fit-Sana Wrap Short, Performance Black, L	
+B00YPSAV2A	Asics 125868 Womens Fit-Sana Wrap Short, Performance Black-M	
+B00YPSAX7I	Womens ASICS Fit-Sana Wrap Short, Performance Black, S	
+B00YPSAZEO	Womens ASICS Fit-Sana Wrap Short, Performance Black, XL	
+B00YPSB1LK	Womens ASICS Fit-Sana Wrap Short, Performance Black, XS	
+B00YPSB3H2	Asics Womens Fit-Sana Wrap Short, L, Blue	
+B00YPSB5VQ	Asics Womens Fit-Sana Wrap Short, M, Blue	
+B00YPSB84A	Asics Womens Fit-Sana Wrap Short, S, Blue	
+B00YPSBAKM	Womens ASICS Fit-Sana Wrap Short, Indigo Blue, XL	
+B00YPSBCLO	Asics Womens Fit-Sana Wrap Short, Xs, Blue	
+B00Q3C14SQ	Asics Womens Fit-Sana Ruched Short, L	
+B00Q3C167A	Asics Womens Fit-Sana Ruched Short, M	
+B00Q3C17EW	Asics Womens Fit-Sana Ruched Short, S	
+B00Q3C18GE	Womens ASICS Fit-Sana Ruched Short, Vanilla Ice, XL (US 12-14)	
+B00Q3C19R2	Asics Womens Fit-Sana Ruched Short, Xs	
+B00Q3C1B7K	Asics Womens Fit-Sana Ruched Short, L	
+B00Q3C1DXM	Asics Womens Fit-Sana Ruched Short, S	
+B00Q3C1FE4	Womens ASICS Fit-Sana Ruched Short, Byzantium, XL (US 12-14)	
+B00Q3C1IIW	Asics Womens Fit-Sana Ruched Short, L	
+B00Q3C1K2Q	Asics Womens Fit-Sana Ruched Short, M	
+B00Q3C1LGQ	Asics Womens Fit-Sana Ruched Short, S	
+B00Q3C1NRS	Womens ASICS Fit-Sana Ruched Short, Performance Black, XL (US 12-14)	
+B00Q3C1P26	Asics Womens Fit-Sana Ruched Short, Xs	
+B00YPRWGCE	Asics Women's Fit-Sana Reversible Capri	
+B00YPRWJ9E	Asics Women's Fit-Sana Reversible Capri	
+B00YPRWMBO	Asics Women's Fit-Sana Reversible Capri	
+B00YPRWPWU	Womens ASICS Fit-Sana Reversible Capri, Black Print, XL	
+B00YPRWSW2	Womens ASICS Fit-Sana Reversible Capri, Black Print, XS	
+B00YPRWVLA	Womens ASICS Fit-Sana Reversible Capri, Indigo Blue Print, L	
+B00YPRWYXU	Womens ASICS Fit-Sana Reversible Capri, Indigo Blue Print, M	
+B00YPRX1X2	Womens ASICS Fit-Sana Reversible Capri, Indigo Blue Print, S	
+B00YPRX4ZM	Womens ASICS Fit-Sana Reversible Capri, Indigo Blue Print, XL	
+B00YPRX8IA	Womens ASICS Fit-Sana Reversible Capri, Indigo Blue Print, XS	
+B00YPRXCK4	Womens ASICS Fit-Sana Reversible Capri, Port Royale Print, L	
+B00YPRXFI8	Womens ASICS Fit-Sana Reversible Capri, Port Royale Print, M	
+B00YPRXIJ4	Womens ASICS Fit-Sana Reversible Capri, Port Royale Print, S	
+B00YPRXLIW	Womens ASICS Fit-Sana Reversible Capri, Port Royale Print, XL	
+B00YPRXVOQ	Womens ASICS Fit-Sana Reversible Capri, Port Royale Print, XS	
+B00YPS2EAC	ASICS Women's Fit-Sana Jacquard Capris Port Royale LG (US 10-12) X 22	
+B00YPS2GFA	ASICS Women's Fit-Sana Jacquard Capris Port Royale Pants MD (US 8-10) X 22	
+B00YPS2J52	ASICS Women's Fit-Sana Jacquard Capris Port Royale SM (US 6-8) X 22	
+B00YPS2LFU	ASICS Women's Fit-Sana Jacquard Capris Port Royale XL (US 12-14) X 22	
+B00YPS2OCU	ASICS Women's Fit-Sana Jacquard Capris Port Royale XS (US 4-6) X 22	
+B00YPS1I1S	ASICS Women's Fit-Sana Jacquard Capris Performance Black LG (US 10-12) X 22	
+B00YPS1LE2	ASICS Women's Fit-Sana Jacquard Capris Performance Black MD (US 8-10) X 22	
+B00YPS1O9Y	ASICS Women's Fit-Sana Jacquard Capris Performance Black SM (US 6-8) X 22	
+B00YPS1QY2	ASICS Women's Fit-Sana Jacquard Capris Performance Black XL (US 12-14) X 22	
+B00YPS1TGM	ASICS Women's Fit-Sana Jacquard Capris Performance Black Pants XS (US 4-6) X 22	
+B00YPS1W14	Womens ASICS Fit-Sana Jacquard Capri, Indigo Blue, L	
+B00YPS1YK8	Womens ASICS Fit-Sana Jacquard Capri, Indigo Blue, M	
+B00YPS218M	Womens ASICS Fit-Sana Jacquard Capri, Indigo Blue, S	
+B00YPS28IU	Womens ASICS Fit-Sana Jacquard Capri, Indigo Blue, XL	
+B00YPS2BC8	Womens ASICS Fit-Sana Jacquard Capri, Indigo Blue, XS	
+B00YPRSEWU	Womens ASICS Fit-Sana Reversible Tight, Black Print, L	
+B00YPRSL28	Womens ASICS Fit-Sana Reversible Tight, Black Print, S	
+B00YPRSO20	Womens ASICS Fit-Sana Reversible Tight, Black Print, XL	
+B00YPRSQO6	Asics Womens Fit-Sana Rev Tight, Xs	
+B00YPRSTCA	ASICS Women's Fit-Sana Reversible Tights Indigo Blue Print LG (US 10-12) X 28.5	
+B00YPRSW6S	ASICS Women's Fit-Sana Reversible Tights Indigo Blue Print MD (US 8-10) X 28.5	
+B00YPRSZUG	ASICS Women's Fit-Sana Reversible Tights Indigo Blue Print SM (US 6-8) X 28.5	
+B00YPRT3DE	ASICS Women's Fit-Sana Reversible Tights Indigo Blue Print XL (US 12-14) X 28.5	
+B00YPRT6MM	ASICS Women's Fit-Sana Reversible Tights Indigo Blue Print XS (US 4-6) X 28.5	
+B00YPRT9KG	Womens ASICS Fit-Sana Reversible Tight, Port Royale Print, L	
+B00YPRTCKI	Womens ASICS Fit-Sana Reversible Tight, Port Royale Print, M	
+B00YPRTEH4	Womens ASICS Fit-Sana Reversible Tight, Port Royale Print, S	
+B00YPRTON8	Womens ASICS Fit-Sana Reversible Tight, Port Royale Print, XS	
+B00YPRZO5A	Asics Fit-Sana Jacquard Tights - Women's Port Royale, L	
+B00YPRZQVM	Asics Womens Fit-Sana Jacquard Tight, M	
+B00YPRZUAE	Asics Fit-Sana Jacquard Tights - Women's Port Royale, S	
+B00YPRZXLU	Womens ASICS Fit-Sana Jacquard Tight, Port Royale, XL	
+B00YPS00TY	Asics Womens Fit-Sana Jacquard Tight, Xs	
+B00SUDQR6K	ASICS Women's Fit-Sana Jacquard Tights Performance Black LG (US 10-12) X 27	
+B00SUDQU76	ASICS Women's Fit-Sana Jacquard Tights Performance Black MD (US 8-10) X 27	
+B00SUDQWSS	ASICS Women's Fit-Sana Jacquard Tights Performance Black SM (US 6-8) X 27	
+B00SUDR1TW	ASICS Women's Fit-Sana Jacquard Tights Performance Black XS (US 4-6) X 27	
+B00SUDQF1C	ASICS Women's Fit-Sana Jacquard Tights Indigo Blue LG (US 10-12) X 27	
+B00SUDQH9M	ASICS Women's Fit-Sana Jacquard Tights Indigo Blue MD (US 8-10) X 27	
+B00SUDQJYA	ASICS Women's Fit-Sana Jacquard Tights Indigo Blue SM (US 6-8) X 27	
+B00SUDQMEC	ASICS Women's Fit-Sana Jacquard Tights Indigo Blue XL (US 12-14) X 27	
+B00SUDQOUO	ASICS Women's Fit-Sana Jacquard Tights Indigo Blue XS (US 4-6) X 27	
+B00YPS776S	Womens ASICS Fit-Sana Slim Pant, Black/Byzantium, M	
+B00YPS795C	Womens ASICS Fit-Sana Slim Pant, Black/Byzantium, S	
+B00YPS7DNU	Womens ASICS Fit-Sana Slim Pant, Black/Byzantium, XS	
+B00YPS7GJQ	Womens ASICS Fit-Sana Slim Pant, Black/Urban Grey, L	
+B00YPS7IXK	Womens ASICS Fit-Sana Slim Pant, Black/Urban Grey, M	
+B00YPS7L5U	Womens ASICS Fit-Sana Slim Pant, Black/Urban Grey, S	
+B00YPS7QCS	Womens ASICS Fit-Sana Slim Pant, Black/Urban Grey, XL	
+B00YPS7SNK	Womens ASICS Fit-Sana Slim Pant, Black/Urban Grey, XS	
+B00YPS6SFO	Womens ASICS Fit-Sana Slim Pant, Black/Aqua Mint, L	
+B00YPS6UXO	Womens ASICS Fit-Sana Slim Pant, Black/Aqua Mint, M	
+B00YPS6X54	Womens ASICS Fit-Sana Slim Pant, Black/Aqua Mint, S	
+B00YPS6ZAW	Womens ASICS Fit-Sana Slim Pant, Black/Aqua Mint, XL	
+B00YPS726I	Womens ASICS Fit-Sana Slim Pant, Black/Aqua Mint, XS	
+B00YPRKV7Q	Womens ASICS Club Long Sleeve Top, Real White, L	
+B00YPRKXOM	Womens ASICS Club Long Sleeve Top, Real White, M	
+B00YPRL0F8	Womens ASICS Club Long Sleeve Top, Real White, S	
+B00YPRL31O	Womens ASICS Club Long Sleeve Top, Real White, XL	
+B00YPRL5ZI	Womens ASICS Club Long Sleeve Top, Real White, XS	
+B00YPRLOTK	Asics Club Long Sleeve Top - Hibiscus	
+B00YPRLRCY	Womens ASICS Club Long Sleeve Top, Hibiscus, S	
+B00YPRLTYA	Asics Club Long Sleeve Top - Hibiscus	
+B00YPRLWO2	Womens ASICS Club Long Sleeve Top, Hibiscus, XS	
+B00YPRL8RS	Asics Club Long Sleeve Top - Marina	
+B00YPRLBQG	Asics Club Long Sleeve Top - Marina	
+B00YPRLEDQ	Asics Club Long Sleeve Top - Marina, Small	
+B00YPRLGOS	Asics Club Long Sleeve Top - Marina	
+B00YPRLJO0	Womens ASICS Club Long Sleeve Top, Marina, XS	
+B00YPS88UC	Womens ASICS Fit-Sana Barre Tight, Dark Grey, L	
+B00YPS8AZU	Asics Womens Fit-Sana Barre Tight, M	
+B00YPS8DDE	Asics Womens Fit-Sana Barre Tight, S	
+B00YPS8G0Y	Womens ASICS Fit-Sana Barre Tight, Dark Grey, XL	
+B00YPS8IV6	Asics Womens Fit-Sana Barre Tight, Xs	
+B00YPS7XE4	Womens ASICS Fit-Sana Barre Tight, Performance Black, L	
+B00YPS7ZDI	Asics Womens Fit-Sana Barre Tight, M	
+B00YPS81S6	Womens ASICS Fit-Sana Barre Tight, Performance Black, S	
+B00YPS84EM	Womens ASICS Fit-Sana Barre Tight, Performance Black, XL	
+B00YPS86NG	Womens ASICS Fit-Sana Barre Tight, Performance Black, XS	
+B00YPS6E1W	Asics 125881 Womens Fit-Sana Cuffed Tight, Performance Black/Byzantium-L	
+B00YPS6GV0	Womens ASICS Fit-Sana Cuffed Tight, Black/Byzantium, M	
+B00YPS6JD0	Womens ASICS Fit-Sana Cuffed Tight, Black/Byzantium, S	
+B00YPS6LUG	Womens ASICS Fit-Sana Cuffed Tight, Black/Byzantium, XL	
+B00YPS6O80	Womens ASICS Fit-Sana Cuffed Tight, Black/Byzantium, XS	
+B00YPS6002	Womens ASICS Fit-Sana Cuffed Tight, Indigo Blue/Aqua, L	
+B00YPS62PA	Asics 125881 Womens Fit-Sana Cuffed Tight, Indigo Blue/Aqua Mint-M	
+B00YPS6674	Womens ASICS Fit-Sana Cuffed Tight, Indigo Blue/Aqua, S	
+B00YPS694E	Womens ASICS Fit-Sana Cuffed Tight, Indigo Blue/Aqua, XL	
+B00YPS6BLA	Asics Womens Fit-Sana Cuffed Tight, Xs	
+B00Q3C0H4S	Womens ASICS Fit-Sana Ruched Jacket, Vanilla Ice, L	
+B00Q3C0INI	Womens ASICS Fit-Sana Ruched Jacket, Vanilla Ice, Medium / US 8-10	
+B00Q3C0K2C	Womens ASICS Fit-Sana Ruched Jacket, Vanilla Ice, Small / US 6-8	
+B00Q3C0LDU	Womens ASICS Fit-Sana Ruched Jacket, Vanilla Ice, XL	
+B00Q3C0MNO	Womens ASICS Fit-Sana Ruched Jacket, Vanilla Ice, XS	
+B00Q3C0O28	ASICS Women's Studio Fit Sana Ruched Jacket Byzantium LG (US 10-12)	
+B00Q3C0PD6	ASICS Women's Studio Fit Sana Ruched Jacket Byzantium MD (US 8-10)	
+B00Q3C0QY4	ASICS Women's Studio Fit Sana Ruched Jacket Byzantium SM (US 6-8)	
+B00Q3C0S6U	ASICS Women's Studio Fit Sana Ruched Jacket Byzantium XL (US 12-14)	
+B00Q3C0TW8	ASICS Women's Studio Fit Sana Ruched Jacket Byzantium XS (US 4-6)	
+B00Q3C0VD0	ASICS Women's Studio Fit Sana Ruched Jacket Performance Black LG (US 10-12)	
+B00Q3C0WH0	ASICS Women's Studio Fit Sana Ruched Jacket Performance Black MD (US 8-10)	
+B00Q3C0XOC	ASICS Women's Studio Fit Sana Ruched Jacket Performance Black SM (US 6-8)	
+B00Q3C0Z54	ASICS Women's Studio Fit Sana Ruched Jacket Performance Black XL (US 12-14)	
+B00Q3C109Y	ASICS Women's Studio Fit Sana Ruched Jacket Performance Black XS (US 4-6)	
+B00YPRYUTG	Womens ASICS Fit-Sana Jacquard Full Zip Jacket, Port Royale, L	
+B00YPRYXTS	Womens ASICS Fit-Sana Jacquard Full Zip Jacket, Port Royale, M	
+B00YPRZ086	Womens ASICS Fit-Sana Jacquard Full Zip Jacket, Port Royale, S	
+B00YPRZ3DI	Missing Detail page	
+B00YPRZ5UE	Womens ASICS Fit-Sana Jacquard Full Zip Jacket, Port Royale, XS	
+B00YPRY0LE	Missing Detail page	
+B00YPRY3D4	ASICS Women's Fit-Sana Jacquard Jacket Performance Black Outerwear MD (US 8-10)	
+B00YPRY7EE	ASICS Women's Fit-Sana Jacquard Jacket Performance Black Outerwear SM (US 6-8)	
+B00YPRYAOQ	Missing Detail page	
+B00YPRYDEI	Missing Detail page	
+B00YPRYG1I	Missing Detail page	
+B00YPRYJJW	Missing Detail page	
+B00YPRYM8U	Missing Detail page	
+B00YPRYP7S	ASICS Women's Fit-Sana Jacquard Jacket Indigo Blue Outerwear XL (US 12-14)	
+B00YPRYRU8	Missing Detail page	
+B0117N1K4I	Mens ASICS Woven Short, Rouge Noir, XXL	
+B0117N172S	Mens ASICS Woven Short, Rouge Noir, Large	
+B0117N1A2A	Mens ASICS Woven Short, Rouge Noir, Medium	
+B0117N1CYQ	Mens ASICS Woven Short, Rouge Noir, Small	
+B0117N1GEM	Mens ASICS Woven Short, Rouge Noir, X-Large	
+B00U2JB4QI	ASICS Men's Lite-Show Sleeveless Top, XX-Large, Dark Grey	
+B00U2JB4OA	ASICS Men's Lite-Show Sleeveless Top, Large, Dark Grey	
+B00U2JB4M2	ASICS Men's Lite-Show Sleeveless Top, Medium, Dark Grey	
+B00U2JB4T0	ASICS Men's Lite-Show Sleeveless Top, Small, Dark Grey	
+B00U2JB4S6	ASICS Men's Lite-Show Sleeveless Top, X-Large, Dark Grey	
+B00U2JB4R2	ASICS Men's Lite-Show Sleeveless Top, XX-Large, Indigo Blue	
+B00U2JB89G	ASICS Men's Lite-Show Sleeveless Top, Large, Indigo Blue	
+B00U2JB896	ASICS Men's Lite-Show Sleeveless Top, Medium, Indigo Blue	
+B00U2JB88M	ASICS Men's Lite-Show Sleeveless Top, Small, Indigo Blue	
+B00U2JB8DC	ASICS Men's Lite-Show Sleeveless Top, X-Large, Indigo Blue	
+B00YPS6E6W	Mens ASICS Lite-Show Sleeveless Top, Mosaic Blue, XXL	
+B00YPS645I	Mens ASICS Lite-Show Sleeveless Top, Mosaic Blue, L	
+B00YPS66QK	Mens ASICS Lite-Show Sleeveless Top, Mosaic Blue, M	
+B00YPS69EO	Mens ASICS Lite-Show Sleeveless Top, Mosaic Blue, S	
+B00YPS6BWE	Mens ASICS Lite-Show Sleeveless Top, Mosaic Blue, XL	
+B00U2JAS4W	ASICS Men's Lite-Show Short Sleeve Top, XX-Large, Safety Yellow	
+B00U2JARYS	ASICS Men's Lite-Show Short Sleeve Top, Large, Safety Yellow	
+B00U2JARYI	ASICS Men's Lite-Show Short Sleeve Top, Medium, Safety Yellow	
+B00U2JAUPO	ASICS Men's Lite-Show Short Sleeve Top, Small, Safety Yellow	
+B00U2JAUPY	ASICS Men's Lite-Show Short Sleeve Top, X-Large, Safety Yellow	
+B00U2JAUUY	ASICS Men's Lite-Show Short Sleeve Top, XX-Large, Dark Grey Heather	
+B00U2JAURC	ASICS Men's Lite-Show Short Sleeve Top, Large, Dark Grey Heather	
+B00U2JAUZY	ASICS Men's Lite-Show Short Sleeve Top, Medium, Dark Grey Heather	
+B00U2JAUWW	ASICS Men's Lite-Show Short Sleeve Top, Small, Dark Grey Heather	
+B00U2JAUY0	ASICS Men's Lite-Show Short Sleeve Top, X-Large, Dark Grey Heather	
+B00U2JAXLK	ASICS Men's Lite-Show Short Sleeve Top, XX-Large, Deep Ruby	
+B00U2JAXTM	ASICS Men's Lite-Show Short Sleeve Top, Large, Deep Ruby	
+B00U2JAXNS	ASICS Men's Lite-Show Short Sleeve Top, Medium, Deep Ruby	
+B00U2JAXV0	ASICS Men's Lite-Show Short Sleeve Top, Small, Deep Ruby	
+B00U2JAXSS	ASICS Men's Lite-Show Short Sleeve Top, X-Large, Deep Ruby	
+B00U2JAXSI	ASICS Men's Lite-Show Short Sleeve Top, XX-Large, Indigo Blue	
+B00U2JAXKG	ASICS Men's Lite-Show Short Sleeve Top, Large, Indigo Blue	
+B00U2JB16G	ASICS Men's Lite-Show Short Sleeve Top, Medium, Indigo Blue	
+B00U2JB10W	ASICS Men's Lite-Show Short Sleeve Top, Small, Indigo Blue	
+B00U2JB11Q	ASICS Men's Lite-Show Short Sleeve Top, X-Large, Indigo Blue	
+B00U2JB15W	ASICS Men's Lite-Show Short Sleeve Top, XX-Large, Mosaic Blue	
+B00U2JB14I	ASICS Men's Lite-Show Short Sleeve Top, Large, Mosaic Blue	
+B00U2JB148	ASICS Men's Lite-Show Short Sleeve Top, Medium, Mosaic Blue	
+B00U2JB11G	ASICS Men's Lite-Show Short Sleeve Top, Small, Mosaic Blue	
+B00U2JB4NG	ASICS Men's Lite-Show Short Sleeve Top, X-Large, Mosaic Blue	
+B00YPRVDOQ	Asics 128372 Womens Flex Spacer Bra, Black Print-L	
+B00YPRVGD4	Womens ASICS Flex Spacer Bra, Black Print, M	
+B00YPRVJ7C	Asics 128372 Womens Flex Spacer Bra, Black Print-S	
+B00YPRVM3I	Womens ASICS Flex Spacer Bra, Black Print, XL	
+B00YPRVPDA	Womens ASICS Flex Spacer Bra, Black Print, XS	
+B00U2JFUMW	ASICS Women's Studio Flex Spacer Bra, Large, BlackBerry Cordial	
+B00U2JFUNQ	ASICS Women's Studio Flex Spacer Bra, Medium, BlackBerry Cordial	
+B00U2JFUT0	ASICS Women's Studio Flex Spacer Bra, Small, BlackBerry Cordial	
+B00U2JFURM	ASICS Women's Studio Flex Spacer Bra, X-Large, BlackBerry Cordial	
+B00U2JFUQ8	ASICS Women's Studio Flex Spacer Bra, X-Small, BlackBerry Cordial	
+B00U2JFURW	ASICS Women's Studio Flex Spacer Bra, Large, Performance Black	
+B00U2JFUXQ	ASICS Women's Studio Flex Spacer Bra, Medium, Performance Black	
+B00U2JFY50	ASICS Women's Studio Flex Spacer Bra, Small, Performance Black	
+B00U2JFY3M	ASICS Women's Studio Flex Spacer Bra, X-Large, Performance Black	
+B00U2JFY6E	ASICS Women's Studio Flex Spacer Bra, X-Small, Performance Black	
+B00U2JFY96	ASICS Women's Studio Flex Spacer Bra, Large, Indigo Blue	
+B00U2JFY7I	ASICS Women's Studio Flex Spacer Bra, Medium, Indigo Blue	
+B00U2JFY7S	ASICS Women's Studio Flex Spacer Bra, Small, Indigo Blue	
+B00U2JFZEA	ASICS Women's Studio Flex Spacer Bra, X-Large, Indigo Blue	
+B00U2JG2X8	ASICS Women's Studio Flex Spacer Bra, X-Small, Indigo Blue	
+B00YPSAGFW	Womens ASICS Fit-Sana 2-N-1 Short, Byzantium, L	
+B00YPSAITQ	Womens ASICS Fit-Sana 2-N-1 Short, Byzantium, M	
