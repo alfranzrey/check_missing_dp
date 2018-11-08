@@ -15,7 +15,7 @@ fs.createReadStream('asins.csv')
     });
 //-----------------------
 //-export file result
-var exportToCSV = fs.createWriteStream('result8.txt');
+var exportToCSV = fs.createWriteStream('result9.txt');
 var header ='ASIN'  + '\t' +
             'Title'    + '\n';
 console.log(header);
