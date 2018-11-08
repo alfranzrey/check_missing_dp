@@ -15,7 +15,7 @@ fs.createReadStream('asins.csv')
     });
 //-----------------------
 //-export file result
-var exportToCSV = fs.createWriteStream('result9.txt');
+var exportToCSV = fs.createWriteStream('result10.txt');
 var header ='ASIN'  + '\t' +
             'Title'    + '\n';
 console.log(header);
@@ -39,6 +39,17 @@ function objToString (obj) {
         const browser = await puppeteer.launch({headless: true});
         const page = await browser.newPage();
         page.setUserAgent('Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/70.0.3538.77 Safari/537.36');
+        //block images and css
+            await page.setRequestInterception(true);
+            page.on('request', (req) => {
+                if(req.resourceType() == 'stylesheet' || req.resourceType() == 'font' || req.resourceType() == 'image'){
+                    req.abort();
+                }
+                else {
+                    req.continue();
+                }
+            });
+            //
         //-----------------
 
         //code starts here
