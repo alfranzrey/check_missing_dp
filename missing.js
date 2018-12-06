@@ -15,7 +15,7 @@ fs.createReadStream('asins.csv')
     });
 //-----------------------
 //-export file result
-var exportToCSV = fs.createWriteStream('result2.txt');
+var exportToCSV = fs.createWriteStream('result3.txt');
 var header ='ASIN'  + '\t' +
             'Title'    + '\n';
 console.log(header);
@@ -36,11 +36,11 @@ function objToString (obj) {
 (async function main() {
     try{
         //---------------
-        const browser = await puppeteer.launch({headless: true, args: ['--no-sandbox', '--disable-setuid-sandbox']});
-        //const browser = await puppeteer.launch({headless: false});
+        //const browser = await puppeteer.launch({headless: true, args: ['--no-sandbox', '--disable-setuid-sandbox']});
+        const browser = await puppeteer.launch({headless: true});
         const page = await browser.newPage();
-        page.setUserAgent('Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/70.0.3538.77 Safari/537.36');
-        /*block images and css
+        page.setUserAgent('Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/70.0.3538.110 Safari/537.36');
+        //block images and css
             await page.setRequestInterception(true);
             page.on('request', (req) => {
                 if(req.resourceType() == 'stylesheet' || req.resourceType() == 'font' || req.resourceType() == 'image'){
@@ -50,7 +50,7 @@ function objToString (obj) {
                     req.continue();
                 }
             });
-            */
+            //
         //-----------------
 
         //code starts here
@@ -75,7 +75,7 @@ function objToString (obj) {
             console.log(objToString(row)); 
             var endT = new Date() - startT; //for ETC
             ETC(endT, csvData.length-i-1);
-            await delay(1000);
+            await delay(750);
         }
 
         //end
