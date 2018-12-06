@@ -15,7 +15,7 @@ fs.createReadStream('asins.csv')
     });
 //-----------------------
 //-export file result
-var exportToCSV = fs.createWriteStream('result10.txt');
+var exportToCSV = fs.createWriteStream('result2.txt');
 var header ='ASIN'  + '\t' +
             'Title'    + '\n';
 console.log(header);
@@ -36,10 +36,11 @@ function objToString (obj) {
 (async function main() {
     try{
         //---------------
-        const browser = await puppeteer.launch({headless: true});
+        const browser = await puppeteer.launch({headless: true, args: ['--no-sandbox', '--disable-setuid-sandbox']});
+        //const browser = await puppeteer.launch({headless: false});
         const page = await browser.newPage();
         page.setUserAgent('Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/70.0.3538.77 Safari/537.36');
-        //block images and css
+        /*block images and css
             await page.setRequestInterception(true);
             page.on('request', (req) => {
                 if(req.resourceType() == 'stylesheet' || req.resourceType() == 'font' || req.resourceType() == 'image'){
@@ -49,11 +50,12 @@ function objToString (obj) {
                     req.continue();
                 }
             });
-            //
+            */
         //-----------------
 
         //code starts here
         for(var i = 0; i < csvData.length; i++){
+            var startT = new Date();//for ETC
             await page.goto("https://www.amazon.com/gp/offer-listing/"+csvData[i], {waitUntil: 'load', timeout: 0}); //bypass timeout
             await page.waitForSelector('body');
             var title = "";
@@ -65,11 +67,15 @@ function objToString (obj) {
                 title = "Missing Detail page";
             }
             let row = {
-                    'Style':csvData[i],
+                    'ASIN':csvData[i],
                     'Title':title
                 }
             exportToCSV.write(objToString(row) + '\n','utf-8');
-            console.log(objToString(row) + '\n'); 
+            console.log("No. "+i+ " ");
+            console.log(objToString(row)); 
+            var endT = new Date() - startT; //for ETC
+            ETC(endT, csvData.length-i-1);
+            await delay(1000);
         }
 
         //end
@@ -79,6 +85,30 @@ function objToString (obj) {
     catch(err){
         console.log("!!!! >>>>>  my error",err);
     }
+
+    function ETC(durationPerLoop, loopsRemaining){
+        var etc = durationPerLoop * loopsRemaining;
+        var secs = (etc / 1000).toFixed(2);
+        var mins = (secs / 60).toFixed(2);
+        var hours = (mins / 60).toFixed(2);
+        var final_etc = "";
+        if (hours >= 1) {
+            final_etc = hours + " hour(s)";
+        }
+        if (hours < 1) {
+            final_etc = mins + " min(s)";
+        }
+        if (mins < 1) {
+            final_etc = secs + " sec(s)";
+        }
+        return console.log("ETC: "+final_etc+'\n');
+    }
+
+    function delay(time) {
+       return new Promise(function(resolve) { 
+           setTimeout(resolve, time)
+       });
+    }
 })();
 
 
@@ -86,4 +116,3 @@ function objToString (obj) {
 
 
     
-
